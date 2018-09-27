@@ -5,6 +5,7 @@ plot(t, y);
 xlabel('t [s]');
 ylabel('A');
 title('This is a sine, A = sin(8 pi t)');
+
 %% Using plot_settings_font.m
 hFig = figure;
 hAx = axes;
