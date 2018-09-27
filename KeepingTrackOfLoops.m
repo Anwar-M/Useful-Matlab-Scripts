@@ -11,7 +11,7 @@ for I = 1:total_loops
     fprintf([reverseStr, msg]); % Essential
     reverseStr = repmat(sprintf('\b'), 1, length(msg)); % Essential
     
-    % START WITH YOU CODE FOR THE LOOP
+    % START WITH YOUR CODE FOR THE LOOP
     pause(0.01); % As a dummy we pause a bit
     % END CODE FOR THE LOOP
 end
